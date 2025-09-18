@@ -1,0 +1,18 @@
+6:46 PM
+nanay
+{
+  "name": "ultimate-discord-bot",
+  "version": "1.0.0",
+  "description": "Dank-Memer-like economy + fun bot with embeds, games, and autosave.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.4.5",
+    "sqlite3": "^5.1.6",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
