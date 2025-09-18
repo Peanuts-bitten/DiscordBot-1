@@ -6,4 +6,5 @@ yarn-debug.log*
 yarn-error.log*
 economy.sqlite
 .DS_Store
+>>>>>>> 06a83911293db80281548e70a4ba549a2e6f6a57
 Thumbs.db
